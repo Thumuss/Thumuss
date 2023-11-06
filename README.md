@@ -64,6 +64,6 @@
 
 ###
 
-<h4 align="center">I'm currently creating <a href="https://github.com/Thumuss/utpm">utpm</a> in Rust, learning <a href="https://github.com/typst/typst">typst</a> and I'm creating my website ! 💻</h4>
+<h4 align="center"> I'm currently creating <a href="https://github.com/Thumuss/utpm">utpm</a> in Rust, learning <a href="https://github.com/typst/typst">typst</a> and I'm creating my website ! 💻</h4>
 
 ###
