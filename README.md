@@ -54,7 +54,7 @@
   <a href="mailto:thumus.contact@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
   </a>
-  <a href="mailto:thumus.contact@tuta.io" target="_blank">
+  <a href="mailto:contact@thumus.eu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Tutanota&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="tutanota logo"  />
   </a>
   <a href="https://thumus.eu" target="_blank">
