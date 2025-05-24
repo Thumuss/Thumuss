@@ -1,7 +1,7 @@
 <h2 align="center">👨‍💻 Developer passionate about tech & innovation | Exploring ideas & projects ✨</h2>
 
 <p align="center">
-  <strong>L3 Informatique @ FDS • SWERC participant with UM-FDS (x2)</strong><br>
+  <strong>L3 Informatique @ FDS of Montpellier• SWERC participant with UM-FDS (x2)</strong><br>
   <a href="https://thumus.eu">thumus.eu</a>
 </p>
 
