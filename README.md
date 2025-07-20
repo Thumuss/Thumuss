@@ -43,7 +43,7 @@
 
 ## 🌟 Featured Projects
 
-- 🦀 [**utpm**](https://github.com/Thumuss/utpm): <br>
+- 🦀 [**utpm**](https://github.com/typst-community/utpm): <br>
   <em>Unofficial Typst Package Manager — Manage and install Typst packages from the terminal (Rust).</em>
 
 - 🐾 [**imagimals**](https://github.com/Thumuss/imagimals): <br>
